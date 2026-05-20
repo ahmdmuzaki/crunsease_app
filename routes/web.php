@@ -12,9 +12,4 @@ Route::get('/about', function () {
 });
 
 Route::get('/produk', [ProductController::class, 'katalog']);
-
-Route::middleware(['auth'])->group(function () {
-    Route::resource('products', ProductController::class);
-});
-
-require __DIR__.'/auth.php';
+Route::resource('products', ProductController::class);

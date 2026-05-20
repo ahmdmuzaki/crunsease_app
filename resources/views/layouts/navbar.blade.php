@@ -19,10 +19,6 @@
                 <li class="nav-item">
                     <a class="nav-link text-white" href="/produk">Katalog</a>
                 </li>
-
-                <li class="nav-item">
-                    <a class="nav-link text-warning fw-bold" href="/products">Admin Produk</a>
-                </li>
             </ul>
         </div>
     </div>
