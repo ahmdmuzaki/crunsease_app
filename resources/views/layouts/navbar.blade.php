@@ -17,7 +17,11 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link text-white" href="/produk">Katalog</a>
+                    <a class="nav-link text-white" href="/produk">Catalog</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="/contact">Contact</a>
                 </li>
             </ul>
         </div>

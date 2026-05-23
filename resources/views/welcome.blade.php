@@ -23,7 +23,7 @@
             <a href="/produk"
                class="text-white text-decoration-none px-4 py-2"
                style="background:#111; border:2px solid #111; font-family:'Courier New',monospace; font-size:0.85rem; letter-spacing:0.08em;">
-                Lihat Katalog 
+                Lihat Catalog 
             </a>
         </div>
     </div>

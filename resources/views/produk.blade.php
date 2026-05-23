@@ -2,8 +2,6 @@
 
 @section('content')
 
-<h2 class="text-center mb-4 fw-bold">Katalog Produk</h2>
-
 <div class="row g-4">
 
     @foreach($products as $p)
